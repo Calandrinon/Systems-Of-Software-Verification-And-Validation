@@ -1,0 +1,10 @@
+show all students
+show all homeworks
+show grades
+add student
+add homework
+add student grade for a homework - not working
+delete student
+delete homework
+update student
+deadline postpone for a homework - not working
