@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="ssvv.features.search.EmagSearchByKeywordDdt" skipped="0" tests="2" time="7.22" timestamp="2022-05-11 03:55:36"><testcase classname="ssvv.features.search.EmagSearchByKeywordDdt" name="Searching by random keyword should display the corresponding article"/><testcase classname="ssvv.features.search.EmagSearchByKeywordDdt" name="Searching by keyword motocoasa and sort should display the corresponding article"><error type="net.serenitybdd.core.exceptions.UnrecognisedException"/><system-err>null
+ssvv.pages.EmagDictionaryPage.choose_sort_option(EmagDictionaryPage.java:35)
+ssvv.steps.serenity.EmagSteps.choose_sort_option(EmagSteps.java:60)
+ssvv.steps.serenity.EmagSteps.sort_by_price_desc(EmagSteps.java:52)
+ssvv.features.search.EmagSearchByKeywordDdt.searching_by_keyword_motocoasa_and_sort_should_display_the_corresponding_article(EmagSearchByKeywordDdt.java:61)
+</system-err></testcase></testsuite>
